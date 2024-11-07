@@ -1,7 +1,5 @@
 # Angular Interview Questions & Answers
 
-> Click :star
-
 ---
 
 <p align="center">
